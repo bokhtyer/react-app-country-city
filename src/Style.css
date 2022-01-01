@@ -1,0 +1,52 @@
+.area-full {
+	border: 1px solid #eee;
+	padding: 20px 30px;
+	box-shadow: 0px 0px 20px 0px #eee;
+}
+.area-full h2 {
+	font-size: 25px;
+	font-weight: 700;
+}
+.text-right {
+	text-align: right;
+}
+.modal-dialog.add-new-user {
+	max-width: 500px;
+}
+.add-new-user .modal-content {
+	border-radius: 0px;
+}
+.add-new-user .modal-header h5 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.2;
+}
+.add-new-user .modal-body {
+	text-align: left;
+	padding: 20px 20px;
+	background: #eee;
+}
+.input-group label {
+	font-size: 15px;
+	font-weight: 600;
+	margin-bottom: 5px;
+	display: block;
+	width: 100%;
+}
+.input-group input {
+	display: block;
+	padding: 10px 20px;
+	border-radius: 0px;
+	font-size: 15px;
+	font-weight: 500;
+}
+.input-group input:focus{
+    box-shadow: none;
+}
+.input-group select {
+	display: block;
+	padding: 10px 20px;
+}
+.input-group select:focus{
+    box-shadow: none;
+}
